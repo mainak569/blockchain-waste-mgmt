@@ -175,4 +175,4 @@ For support and questions:
 
 **Made with Next.js 15 + Blockchain Technology** 🚀
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mainak569/blockchain-waste-mgmt)
+[![Deploy with Vercel](https://vercel.com/button)](https://blockchain-waste-mgmt.vercel.app)
