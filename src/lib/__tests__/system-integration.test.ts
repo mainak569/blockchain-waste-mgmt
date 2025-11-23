@@ -24,7 +24,7 @@ describe('System Integration Test - Complete Blockchain Integration', () => {
     // Initialize blockchain integration service
     service = new BlockchainIntegrationService({
       enabled: true,
-      dataDirectory: testDataDir,
+      dataDir: testDataDir,
       gracefulDegradation: true,
       fallbackToLegacy: true
     });

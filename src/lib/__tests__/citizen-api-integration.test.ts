@@ -30,6 +30,7 @@ describe('Citizen API Integration with Blockchain', () => {
       blockchainEnabled: true,
       gracefulDegradation: true,
       fallbackToLegacy: false,
+      initializationError: undefined,
       mode: 'blockchain'
     });
   });

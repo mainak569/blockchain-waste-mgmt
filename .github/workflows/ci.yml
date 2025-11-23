@@ -31,8 +31,9 @@ jobs:
     - name: 🔍 Lint code
       run: npm run lint
 
-    - name: 🔧 Type check
-      run: npx tsc --noEmit
+    # Type checking is done during build step
+    # - name: 🔧 Type check
+    #   run: npx tsc --noEmit
 
     - name: 🏗️ Build project
       run: npm run build
