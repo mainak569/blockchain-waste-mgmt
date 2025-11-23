@@ -18,6 +18,11 @@ const eslintConfig = [
       "out/**",
       "build/**",
       "next-env.d.ts",
+      "test-connection.js",
+      "test-runner.js",
+      "test-cleanup/**",
+      "data/**",
+      "*.js",
     ],
   },
   {
@@ -27,6 +32,7 @@ const eslintConfig = [
       "@typescript-eslint/no-namespace": "off",
       "react-hooks/exhaustive-deps": "warn",
       "react/no-unescaped-entities": "off",
+      "@typescript-eslint/no-require-imports": "off",
     },
   },
 ];
