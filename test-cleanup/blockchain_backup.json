@@ -1,0 +1,26 @@
+{
+  "blocks": [
+    {
+      "header": {
+        "height": 0,
+        "previousHash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "merkleRoot": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "timestamp": "2025-11-22T18:31:57.106Z",
+        "nonce": 51451,
+        "hash": "97c7b2549659cfb7a76d23be396e436b9584417d114ffcb73cdd2635fa85a9b6"
+      },
+      "body": {
+        "transactions": [],
+        "transactionCount": 0
+      }
+    }
+  ],
+  "transactionIndex": {},
+  "chainState": {
+    "height": 0,
+    "latestBlockHash": "97c7b2549659cfb7a76d23be396e436b9584417d114ffcb73cdd2635fa85a9b6",
+    "totalTransactions": 0,
+    "lastUpdated": "2025-11-22T18:31:57.106Z"
+  },
+  "backupTimestamp": "2025-11-22T18:31:57.114Z"
+}

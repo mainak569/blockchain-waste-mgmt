@@ -1,0 +1,16 @@
+[
+  {
+    "header": {
+      "height": 0,
+      "previousHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "merkleRoot": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "timestamp": "2025-11-23T04:07:54.912Z",
+      "nonce": 69504,
+      "hash": "a0c04c733794072dd2ddcdb80f23e73a3a2cbd5e280ea6dd25274b69220268fe"
+    },
+    "body": {
+      "transactions": [],
+      "transactionCount": 0
+    }
+  }
+]
